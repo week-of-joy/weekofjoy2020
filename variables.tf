@@ -19,3 +19,7 @@ variable "demovariable" {
   type    = "string"
   default = "weekofjoy"
 }
+variable "demovariable2" {
+  type    = "string"
+  default = "weekofjoy"
+}
