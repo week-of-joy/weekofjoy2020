@@ -21,5 +21,9 @@ variable "demovariable" {
 }
 variable "demovariable2" {
   type    = "string"
-  default = "weekofjoy-pod2"
+  default = "weekofjoy"
+}
+variable "demovariable_pod2" {
+  type    = "string"
+  default = "weekofjoy_pod2"
 }
