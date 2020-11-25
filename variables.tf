@@ -16,7 +16,7 @@ variable "instance_type" {
   default = "t2.micro"
 }
 
-variable "demovariable_x" {
+variable "demovariable_xx" {
   type    = "string"
   default = "weekofjoy"
 }
