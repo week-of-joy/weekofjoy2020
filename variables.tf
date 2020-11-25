@@ -16,6 +16,11 @@ variable "instance_type" {
   default = "t2.micro"
 }
 
+variable "demovariableTest" {
+  type    = "string"
+  default = "weekofjoy"
+}
+
 variable "demovariable2" {
   type    = "string"
   default = "weekofjoy"
